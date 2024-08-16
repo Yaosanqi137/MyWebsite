@@ -1,6 +1,0 @@
-pnpm-lock.yaml
-docs/versioned
-*.md
-*.mdx
-!README.md
-!CONTRIBUTING.md
