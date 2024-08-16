@@ -72,8 +72,8 @@ export default defineConfig({
     comment: {
       repo: 'yaosanqi137/MyWebsite',
       repoId: 'R_kgDOMj5iVg',
-      category: '',
-      categoryId: '',
+      category: 'Announcements',
+      categoryId: 'DIC_kwDOMj5iVs4Chtik',
     },
   },
 
