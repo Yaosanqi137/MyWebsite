@@ -1,0 +1,10 @@
+/.idea
+/node_modules
+/build
+/.vscode
+/.docusaurus
+.cache-loader
+.DS_Store
+npm-debug.log*
+.pnp.*
+/.meta
