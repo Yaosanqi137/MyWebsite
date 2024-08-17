@@ -25,9 +25,7 @@
 
 ### 贡献教程 📕
 
-:::tip
-请保证你的电脑里有 [Node.js](https://nodejs.org/zh-cn)、[Git](https://git-scm.com/)、[VSCode](https://code.visualstudio.com/) 等基础软件
-:::
+**请保证你的电脑里有 [Node.js](https://nodejs.org/zh-cn)、[Git](https://git-scm.com/)、[VSCode](https://code.visualstudio.com/) 等基础软件**
 
 1.首先克隆本项目 `git clone https://github.com/Yaosanqi137/MyWebsite.git`
 
