@@ -1,6 +1,7 @@
-# <center>Yao37 の个人资源网站</center>
-
 <div align="center">
+
+# <div>Yao37 の个人资源网站</div>
+
 <div>
 <img src="https://img.fastmirror.net/s/2024/08/17/66c053c99b0c8.png">
 <br />
