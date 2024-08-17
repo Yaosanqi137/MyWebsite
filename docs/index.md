@@ -22,7 +22,7 @@ features:
   - icon: 📕
     title: Minecraft
     details: 我整理些一下开服常用的资源和站点 <br>什么? 你看不懂英文不会用电脑?赶紧滚!</br>
-    link: working
+    link: nav/index#我的世界开服相关
     linkText: 我的世界开服相关
   - icon: 🖊
     title: 我的故事
@@ -37,7 +37,7 @@ features:
   - icon: 🔧
     title: 我常用的小工具
     details: 我觉得好用的工具会放在这里<br>大家觉得有需要可以去看看
-    link: working
+    link: nav/index#常用小工具
     linkText: 去使用小工具
   - icon: 😅
     title: 乐子 Wiki
@@ -52,8 +52,8 @@ features:
   - icon: 🏫
     title: 中国海洋大学
     details: 汇总了一些新生须知的信息<br>以及学校里面的一些好玩的地方
-    link: nav/index
-    linkText: 去看 fufu
+    link: https://137docs.gstech.fun/intro
+    linkText: 去了解
   - icon: 🧰
     title: Changelog
     details: 网站的更新内容我会写在这里</br>只写大概更新了什么，详细的去看 GitHub 里面的 commit
