@@ -38,7 +38,7 @@ export default defineConfig({
       label: '目录',
     },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/Yaosanqi137/',  }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/Yaosanqi137/MyWebsite',  }],
 
     footer: {
       message: 'Yaosanqi137',

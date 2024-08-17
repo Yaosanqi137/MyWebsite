@@ -44,6 +44,21 @@ features:
     details: 集成了互联网中，尤其是 MC 开服圈中的一些乐子
     link: https://yizhan.wiki/lezi-wiki/
     linkText: 去看乐子
+  - icon: 🍚
+    title: 看 fufu
+    details: 康康我的雪 fufu 和大傻</br>还有一只小傻
+    link: fufu
+    linkText: 去看 fufu
+  - icon: 🏫
+    title: 中国海洋大学
+    details: 汇总了一些新生须知的信息<br>以及学校里面的一些好玩的地方
+    link: nav/index
+    linkText: 去看 fufu
+  - icon: 🧰
+    title: Changelog
+    details: 网站的更新内容我会写在这里</br>只写大概更新了什么，详细的去看 GitHub 里面的 commit
+    link: changelog
+    linkText: 去看更新记录
 ---
 
 <style>

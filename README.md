@@ -1,88 +1,47 @@
-# vitepress-nav-template
+# <center>Yao37 の个人资源网站</center>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maomao1996/picture/main/vitepress-nav-template/home.webp" alt="home" />
-</p>
-<p align="center"> 基于 <b>VitePress</b> 的个人前端导航页面模板 </p>
-<p align='center'><a href="/guide.md">基础教程</a> | <a href="https://notes.fe-mm.com/">作者博客</a></p>
+<style>
+  .center{
+    text-align: center;
+  }
+</style>
+<div class="center">
+<img src="https://img.fastmirror.net/s/2024/08/17/66c053c99b0c8.png">
+<br />
+<img src="https://img.shields.io/github/repo-size/Yaosanqi137/MyWebsite">
+<img src="https://api.netlify.com/api/v1/badges/8c0b4797-fa57-4a9a-b910-4b206ca3dfdc/deploy-status">
+<img src="https://img.shields.io/github/commit-activity/t/Yaosanqi137/MyWebsite">
+</div>
+
+## 本站理念 😀
+
+虽然说是个人资源网站，但是更是便利大家的，在这里，我会尽可能整理一些信息和实用的工具供大家参考和使用
 
 ---
 
-## 预览地址
+## 贡献者相关 🤔
 
-- <https://fe-nav.netlify.app/nav/>
-- <https://maomao1996.github.io/vitepress-nav-template/nav/>
+什么，你想为本站做贡献？
 
-## 功能
+当然可以！提交 PR 就可以了
 
-- 新增 `layout-class` 方便更好的自定义样式
-- 默认中文
-- 自带前端导航模块
-- 支持访客统计
-- 支持 [giscus 评论](https://giscus.app/zh-CN)
-- 支持日夜颜色模式自适应切换
-- 支持 Github Pages 直接部署上线
-  - 1. 开启 github actions
-  - 2. 配置 Pages 为 `gh-pages` 分支
-  - 3. 访问地址为 `https://<username>.github.io/<repository>/`
-- 支持 [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-- 支持查看 vue 示例组件源码（使用 [vite-plugin-markdown-preview](https://github.com/jaskang/vite-plugin-markdown-preview)）
+当然，在提交之前一定要先自己测试哦！
 
-### 开启访客统计
+### 贡献教程 📕
 
-需在 `docs/.vitepress/config.ts` 中配置 `themeConfig.visitor`
+:::tip
+请保证你的电脑里有 [Node.js](https://nodejs.org/zh-cn)、[Git](https://git-scm.com/)、[VSCode](https://code.visualstudio.com/) 等基础软件
+:::
 
-```ts
-export default defineConfig({
-  themeConfig: {
-    /* 访客统计 */
-    visitor: {
-      /** 统计 id（单独页面的统计会作为前缀使用）*/
-      badgeId: 'maomao1996.vitepress-nav-template',
-    },
-  },
-})
-```
+1.首先克隆本项目 `git clone https://github.com/Yaosanqi137/MyWebsite.git`
 
-### 开启 giscus 评论
+2.然后在命令行中使用`cd`指令切换到本项目的目录
 
-需在 `docs/.vitepress/config.ts` 中配置 `themeConfig.comment`
+3.在命令行中输入 `npm install` 提示完成后输入 `npm run dev` ，之后在浏览器输入`localhost:8732` 并访问，这样你就可以实时预览项目了
 
-```ts
-export default defineConfig({
-  themeConfig: {
-    /**
-     * giscus 评论配置
-     *  请根据 https://giscus.app/zh-CN 生成内容填写
-     */
-    comment: {
-      /** github 仓库地址 */
-      repo: '',
-      /** giscus 仓库 ID */
-      repoId: '',
-      /** Discussion 分类 */
-      category: '',
-      /** giscus 分类 ID */
-      categoryId: '',
-    },
-  },
-})
-```
+4.在确认没问题以后就可以提交 PR 啦
 
-#### 在指定页面关闭评论
+## 我的联系方式 📱
 
-需在指定页面的 `markdown` 文件中添加如下 `frontmatter` 配置
-
-```md
----
-comment: false
----
-
-# 功能测试页
-```
-
-docs: 更新 README
-
-## 说明
-
-前端导航模块由 [茂茂 | maomao](https://github.com/maomao1996) 开发，如有引用、借鉴的请保留版权声明：<https://github.com/maomao1996/vitepress-nav-template>
+- 🐧QQ: 3212576603
+- 📫 邮箱: zxc18023571263@outlook.com(主要) 、 3212576603@QQ.com
