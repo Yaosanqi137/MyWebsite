@@ -1,16 +1,13 @@
 # <center>Yao37 の个人资源网站</center>
 
-<style>
-  .center{
-    text-align: center;
-  }
-</style>
-<div class="center">
+<div align="center">
+<div>
 <img src="https://img.fastmirror.net/s/2024/08/17/66c053c99b0c8.png">
 <br />
 <img src="https://img.shields.io/github/repo-size/Yaosanqi137/MyWebsite">
 <img src="https://api.netlify.com/api/v1/badges/8c0b4797-fa57-4a9a-b910-4b206ca3dfdc/deploy-status">
 <img src="https://img.shields.io/github/commit-activity/t/Yaosanqi137/MyWebsite">
+</div>
 </div>
 
 ## 本站理念 😀
