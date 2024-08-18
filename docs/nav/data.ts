@@ -46,12 +46,6 @@ export const NAV_DATA: NavData[] = [
         link: 'https://www.spigotmc.org',
       },
       {
-        icon: 'https://www.fastmirror.net/favicon.ico',
-        title: '无极镜像',
-        desc: '官网下服务端很慢？来这里下载!',
-        link: 'https://www.fastmirror.net/',
-      },
-      {
         icon: 'https://www.planetminecraft.com/favicon.ico',
         title: 'PlanetMinecraft',
         desc: '可以来这里下载地图',
