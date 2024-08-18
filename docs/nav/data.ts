@@ -133,6 +133,12 @@ export const NAV_DATA: NavData[] = [
         desc: '好用的梯子，挺便宜的',
         link: 'https://ikuuu.pw/',
       },
+      {
+        icon: 'https://www.netlify.com/favicon.ico',
+        title: 'Netlify',
+        desc: '可以把你的个人网站挂载在这里,还不用钱',
+        link: 'https://www.netlify.com/',
+      },
     ],
   }
 ]
