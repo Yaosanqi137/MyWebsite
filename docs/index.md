@@ -52,7 +52,7 @@ features:
   - icon: 🏫
     title: 中国海洋大学
     details: 汇总了一些新生须知的信息<br>以及学校里面的一些好玩的地方
-    link: https://137docs.gstech.fun/intro
+    link: working
     linkText: 去了解
   - icon: 🧰
     title: Changelog
