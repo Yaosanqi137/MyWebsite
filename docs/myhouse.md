@@ -35,3 +35,13 @@
 yysy， 海大的环境不错，但是我挺想住中海苑的，我住在北海苑，环境一般般:(
 
 ![](https://img.fastmirror.net/s/2024/08/24/66c9a2e37f1bc.jpg)
+
+## 2024 8 30
+
+MMP，军训是真的累，一天训 8 个小时谁受得了啊 :(
+
+要给我晒熟了 😅
+
+目前 fufu 挺健康的
+
+![](https://img.fastmirror.net/s/2024/08/30/66d1d93a03bdb.jpg)
