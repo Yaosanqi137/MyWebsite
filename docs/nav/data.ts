@@ -134,5 +134,51 @@ export const NAV_DATA: NavData[] = [
         link: 'https://www.netlify.com/',
       },
     ],
+  // },{ 模板，不然 json 太乱
+  //   title: '常用小工具',
+  //   items: [
+  //     {
+  //       icon: 'https://img.fastmirror.net/s/2024/08/17/66c09f5a95a46.png',
+  //       title: '菜鸟教程',
+  //       desc: '编程菜鸟必备网站',
+  //       link: 'https://www.runoob.com/',
+  //     }
+  //   ]
+  // }
+  },{
+    title: 'GitHub项目',
+    items: [
+      {
+        icon: 'https://github.githubassets.com/favicons/favicon-dark.svg',
+        title: 'IT工作室国庆题',
+        desc: '给个 star 吧，求求了',
+        link: 'https://github.com/Yaosanqi137/Exam',
+      },{
+        icon: 'https://github.githubassets.com/favicons/favicon-dark.svg',
+        title: '智能网联汽车',
+        desc: '某人想要参加竞赛',
+        link: 'https://github.com/Yaosanqi137/OUC-SimCar',
+      },{
+        icon: 'https://github.githubassets.com/favicons/favicon-dark.svg',
+        title: 'C语言学习',
+        desc: '给同学抄作业用',
+        link: 'https://github.com/Yaosanqi137/Cstudy',
+      },{
+        icon: 'https://github.githubassets.com/favicons/favicon-dark.svg',
+        title: '网站源码',
+        desc: '这个网站的源码',
+        link: 'https://github.com/Yaosanqi137/myWebsite',
+      },{
+        icon: 'https://github.githubassets.com/favicons/favicon-dark.svg',
+        title: 'NitWikit',
+        desc: '我的 NitWikit fork 仓库',
+        link: 'https://github.com/Yaosanqi137/NitWikit',
+      },{
+        icon: 'https://github.githubassets.com/favicons/favicon-dark.svg',
+        title: 'FufuCraft2',
+        desc: '我的世界 fufu 模组，等我学会 java 就写',
+        link: 'https://github.com/Yaosanqi137/FufuCraft2',
+      }
+    ]
   }
 ]
